@@ -1,4 +1,4 @@
-# Code-connect
+# CODE CONNECT
 
 ## Projeto Desenvolvido durante o curso de JavaScript da Alura
 
